@@ -1,0 +1,5 @@
+C:\Users\extafernandeza\Desktop\proyecto_escuela\backend\Api_Escuela\Api_Escuela\obj\Debug\netcoreapp3.1\Api_Escuela.csproj.AssemblyReference.cache
+C:\Users\extafernandeza\Desktop\proyecto_escuela\backend\Api_Escuela\Api_Escuela\obj\Debug\netcoreapp3.1\Api_Escuela.AssemblyInfoInputs.cache
+C:\Users\extafernandeza\Desktop\proyecto_escuela\backend\Api_Escuela\Api_Escuela\obj\Debug\netcoreapp3.1\Api_Escuela.AssemblyInfo.cs
+C:\Users\extafernandeza\Desktop\proyecto_escuela\backend\Api_Escuela\Api_Escuela\obj\Debug\netcoreapp3.1\Api_Escuela.csproj.CoreCompileInputs.cache
+C:\Users\extafernandeza\Desktop\proyecto_escuela\backend\Api_Escuela\Api_Escuela\obj\Debug\netcoreapp3.1\Api_Escuela.MvcApplicationPartsAssemblyInfo.cache
